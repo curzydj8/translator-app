@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Translator</string>
+    <string name="nav_home">首页</string>
+    <string name="nav_translate">翻译</string>
+    <string name="nav_history">历史</string>
+    <string name="home_title">随身多语言翻译器</string>
+    <string name="home_subtitle">英语 ↔ 简体中文</string>
+    <string name="btn_go_translate">去翻译</string>
+    <string name="btn_go_history">查看历史</string>
+    <string name="source_lang">源语言</string>
+    <string name="target_lang">目标语言</string>
+    <string name="hint_input">输入英文文本…</string>
+    <string name="btn_paste">粘贴</string>
+    <string name="btn_clear">清空</string>
+    <string name="btn_translate">翻译</string>
+    <string name="pasted">已粘贴</string>
+    <string name="clipboard_empty">剪贴板为空</string>
+    <string name="empty_input_hint">请输入要翻译的文本</string>
+    <string name="translating">翻译中…</string>
+    <string name="engine_not_implemented">翻译引擎尚未实现（阶段 3）</string>
+    <string name="history_empty">暂无历史记录（阶段 4 实现持久化）</string>
+    <string name="translate_failed">翻译失败：%1$s</string>
+    <string name="btn_copy">复制</string>
+    <string name="btn_share">分享</string>
+    <string name="copied">已复制到剪贴板</string>
+    <string name="share_title">分享翻译结果</string>
+</resources>
